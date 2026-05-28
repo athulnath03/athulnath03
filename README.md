@@ -67,12 +67,8 @@ const athul = {
 ## GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=athulnath03&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=athulnath03&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://streak-stats.demolab.com?user=athulnath03&theme=tokyonight&hide_border=true" />
+    
+![GitHub Streak](https://streak-stats.demolab.com?user=athulnath03&theme=tokyonight&hide_border=true&background=0D1117)
 
 </div>
 
@@ -92,10 +88,10 @@ const athul = {
 
 <div align="center">
   
-  ### 💭 Dev Quote of the Day
+  ### Dev Quote of the Day
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
   
-  ### 👀 Profile Views
+  ### Profile Views
   ![](https://komarev.com/ghpvc/?username=athulnath03&color=blueviolet&style=for-the-badge)
   
 </div>
