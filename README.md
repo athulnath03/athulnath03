@@ -2,7 +2,25 @@
 
 <div align="center">
 
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Developer+%7C+Designer;%C2%A0Building+Digital+Experiences;Code+%2B+Creativity)
+<svg width="700" height="120">
+  <defs>
+    <style>
+      .text { font: 600 26px 'Fira Code', monospace; fill: #6366F1; }
+    </style>
+  </defs>
+
+  <text x="50%" y="40%" text-anchor="middle" class="text">
+    Developer | Designer
+  </text>
+
+  <text x="50%" y="70%" text-anchor="middle" class="text">
+    Building Digital Experiences
+  </text>
+
+  <text x="50%" y="100%" text-anchor="middle" class="text">
+    Code + Creativity
+  </text>
+</svg>
 
 </div>
 
