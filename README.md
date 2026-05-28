@@ -62,18 +62,17 @@ const athul = {
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)---
 
-## GitHub Stats
+### GitHub Stats
 
 <div align="center">
-  
-  ![Athul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=athulnath03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=athulnath03&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=athulnath03&theme=tokyonight&hide_border=true&background=0D1117)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=athulnath03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=athulnath03&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=athulnath03&theme=tokyonight&hide_border=true&background=0D1117)
 
 </div>
-
 ---
 
 ## Connect With Me
