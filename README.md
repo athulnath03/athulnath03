@@ -2,38 +2,20 @@
 
 <div align="center">
 
-<svg width="700" height="120">
-  <defs>
-    <style>
-      .text { font: 600 26px 'Fira Code', monospace; fill: #6366F1; }
-    </style>
-  </defs>
-
-  <text x="50%" y="40%" text-anchor="middle" class="text">
-    Developer | Designer
-  </text>
-
-  <text x="50%" y="70%" text-anchor="middle" class="text">
-    Building Digital Experiences
-  </text>
-
-  <text x="50%" y="100%" text-anchor="middle" class="text">
-    Code + Creativity
-  </text>
-</svg>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=520&lines=Developer+%7C+Designer;Building+Digital+Experiences;Code+%2B+Creativity)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a **Developer** and **Designer** who loves crafting beautiful, functional digital experiences. I bridge the gap between aesthetics and functionality, turning ideas into reality through code and design.
 
 ```javascript
 const athul = {
     role: ["Developer", "Designer"],
-    location: "Earth 🌍",
+    location: "Palakkad",
     currentlyLearning: "Everything",
     funFact: "I debug with console.log() and I'm not ashamed"
 };
@@ -41,19 +23,19 @@ const athul = {
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
-### 💻 Development
+### Development
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🎨 Design
+### Design
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   
@@ -67,7 +49,7 @@ const athul = {
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
   
