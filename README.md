@@ -23,45 +23,44 @@ const athul = {
 
 ---
 
-### Tools & Technologies
 ## Tools & Technologies
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=javascript" width="18"/> JavaScript  
-<img src="https://skillicons.dev/icons?i=typescript" width="18"/> TypeScript  
-<img src="https://skillicons.dev/icons?i=python" width="18"/> Python  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
-### Frontend Development
-<img src="https://skillicons.dev/icons?i=react" width="18"/> React  
-<img src="https://skillicons.dev/icons?i=nextjs" width="18"/> Next.js  
-<img src="https://skillicons.dev/icons?i=tailwind" width="18"/> Tailwind CSS  
-<img src="https://skillicons.dev/icons?i=html" width="18"/> HTML5  
-<img src="https://skillicons.dev/icons?i=css" width="18"/> CSS3  
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
-### Design Tools
-<img src="https://skillicons.dev/icons?i=figma" width="18"/> Figma  
-<img src="https://skillicons.dev/icons?i=ai" width="18"/> Adobe Illustrator  
-<img src="https://skillicons.dev/icons?i=ps" width="18"/> Adobe Photoshop  
+### Design
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
 ---
 
-### Backend & APIs
-<img src="https://skillicons.dev/icons?i=nodejs" width="18"/> Node.js  
-REST APIs  
-<img src="https://skillicons.dev/icons?i=mysql" width="18"/> MySQL  
-<img src="https://skillicons.dev/icons?i=supabase" width="18"/> Supabase  
+### Backend / APIs
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ---
 
 ### Tools
-<img src="https://skillicons.dev/icons?i=git" width="18"/> Git  
-<img src="https://skillicons.dev/icons?i=github" width="18"/> GitHub  
-<img src="https://skillicons.dev/icons?i=vscode" width="18"/> VS Code  
-<img src="https://skillicons.dev/icons?i=postman" width="18"/> Postman
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
