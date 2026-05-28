@@ -1,9 +1,9 @@
 # 👋 Hey there, I'm Athul!
 
 <div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Developer+%7C+Designer;Building+Digital+Experiences;Code+%2B+Creativity)
-  
+
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Developer+%7C+Designer;%C2%A0Building+Digital+Experiences;Code+%2B+Creativity)
+
 </div>
 
 ---
