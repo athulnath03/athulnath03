@@ -12,15 +12,6 @@
 
 I'm a **Developer** and **Designer** who loves crafting beautiful, functional digital experiences. I bridge the gap between aesthetics and functionality, turning ideas into reality through code and design.
 
-```javascript
-const athul = {
-    role: ["Developer", "Designer"],
-    location: "Palakkad",
-    currentlyLearning: "Everything",
-    funFact: "I debug with console.log() and I'm not ashamed"
-};
-```
-
 ---
 
 ## Tools & Technologies
